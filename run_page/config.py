@@ -76,6 +76,7 @@ TYPE_DICT = {
     "resort_skiing_snowboarding_ws": "Ski",  # garmin
     "AlpineSki": "Ski",  # strava
     "Ski": "Ski",
+    "Workout":"Run"
 }
 
 MAPPING_TYPE = [

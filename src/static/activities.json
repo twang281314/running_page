@@ -4243,5 +4243,20 @@
 "average_speed": 1.429,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 12255559596,
+"name": "Night Run",
+"distance": 4047.0,
+"moving_time": "0:33:05",
+"type": "Run",
+"start_date": "2024-08-27 13:45:46+00:00",
+"start_date_local": "2024-08-27 21:45:46",
+"location_country": "\u5317\u6c99\u897f\u8def, \u9999\u9882\u4e50\u82d1, \u4e34\u5e73\u8857\u9053, \u4e34\u5e73\u533a, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "{ovxDsr`}Un@_@^MJG^Kd@]b@Q\\Yr@[bEkCH?|@b@PF\\AXEVS`Bw@jAw@n@]n@c@`CmAjBgAx@c@t@YzByA~@i@f@Q`@Wb@ELDJFt@v@tAfAbAhA\\f@p@hAtAvC^j@DPz@nBVZx@n@f@v@n@jAdBlC^v@j@z@b@x@Xd@BJKVYX}@h@MDk@d@UJmAt@aA`@ON]NOLg@X[HYJw@v@u@^k@^sAr@YTe@TeAx@_Al@[NiAp@]L_BdAKBW?OFMNSb@eAj@e@^}@b@SPa@Rk@^OFYVgAj@g@Rk@`@oAp@MDIEOWa@sAg@mAe@y@u@oBg@cAOe@Wm@MQQu@IOc@iAS[IYMSESKOGUOUMGEGEKCa@KSMm@]}@M[U[ESaAqBMo@OYCUOUIQAK[o@",
+"average_heartrate": null,
+"average_speed": 2.039,
+"source": "strava",
+"streak": 1
 }
 ]

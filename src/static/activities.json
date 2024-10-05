@@ -4498,5 +4498,50 @@
 "average_speed": 1.293,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12571886254,
+"name": "Morning Walk",
+"distance": 409.5,
+"moving_time": "0:10:39",
+"type": "Hike",
+"start_date": "2024-10-03 20:25:00+00:00",
+"start_date_local": "2024-10-04 04:25:00",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 74.2,
+"average_speed": 0.641,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12571891631,
+"name": "Morning Walk",
+"distance": 1004.0,
+"moving_time": "0:24:13",
+"type": "Hike",
+"start_date": "2024-10-03 22:12:28+00:00",
+"start_date_local": "2024-10-04 06:12:28",
+"location_country": "\u592a\u5b50\u5c16, X311, \u9f99\u5c97\u9547, \u4e34\u5b89\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "y{dwDs`utUCVCDEAC@KZMFIPIDIT?HGDAJGJ?HILANe@LGFEX@RATDZIf@B^AVOLGNE@GHM`ABj@",
+"average_heartrate": 114.7,
+"average_speed": 0.691,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12574387302,
+"name": "Evening Walk",
+"distance": 6100.7,
+"moving_time": "1:07:06",
+"type": "Hike",
+"start_date": "2024-10-04 11:27:10+00:00",
+"start_date_local": "2024-10-04 19:27:10",
+"location_country": "\u6708\u8377\u8def, \u83b1\u8335\u77e5\u5df1, \u4e34\u5e73\u8857\u9053, \u4e34\u5e73\u533a, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "u_wxDqia}U@CGFj@VLAL@PITEPKVITUVMr@u@RKl@e@PIF@LED@NWRKF@JIH@Z]HEL@NIJKHMD?PM@@FAHEBENGVa@FCD@DMHC@BFBF?FGAAA@B?j@SFKXUb@MJI\\_@f@Sz@i@HCTMDIJEVMXWRGf@Yn@e@NERMLMTOTGb@QRSPGh@YFGFQDc@B@DNB@^O^bBVv@F\\LPP`@L|@b@lAJj@T^HVHL^hAJd@h@l@VF@DIT?JV^XRBP@@LCPKFIb@SNEd@WH?^KdA`AH@\\APFbAhAvB~A`@h@d@z@RTTb@FHb@fAfAfBFP?VTLNVJd@P^NNRLLNtAvBXj@NLT^Nb@\\\\PV?DHJNb@LNP\\TTHRNLZf@FJ?VVb@VHV?HDZ\\PFV\\RL\\`@PJT`@p@b@j@NDFTHPRHBh@x@NHD@^Xf@NPR?TAJKLsAfAOP}@p@c@`@]RQRYPqArAUPODQNo@b@IHUNGHE@INk@d@U\\WPELCTGJi@b@WZ_@XABYVILUTGLKJU^WN]b@_@`@_AxA_@`@IB]\\KFOXmBrBSZWN[`@IBGA@?Uv@_@\\EHaAx@MV[XYh@WZQAKOIEIHUBYVY^MLWHCDB?ABOLQTWLURU^G@MLK@CD]YKYU]QaAMSCQOOMm@KKO_@I_@?KDQ?EO?QYSSSIYa@EO?OEICSM[IMc@}BKGW]S?IGYJQe@[i@ESIGIc@O]Uc@SMS[G]M[E]Uc@i@uAWM]i@KWGm@Wk@E_@KOMEO[EOWm@m@qB_@u@_@eAa@u@ESc@{@Om@MUmAmCASMWCKa@aAKKg@qA{@cB][MCGE?BKS[_A?KJUAKISAOKSUeA",
+"average_heartrate": 110.2,
+"average_speed": 1.515,
+"source": "strava",
+"streak": 1
 }
 ]

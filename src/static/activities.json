@@ -4813,5 +4813,20 @@
 "average_speed": 2.191,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13067187127,
+"name": "Evening Walk",
+"distance": 6248.2,
+"moving_time": "1:16:25",
+"type": "Hike",
+"start_date": "2024-12-07 11:07:35+00:00",
+"start_date_local": "2024-12-07 19:07:35",
+"location_country": "\u9053\u53e4\u5bfa, \u661f\u5149\u8857, \u65b0\u57ce\u5c71\u8bed\u9662, \u4e34\u5e73\u8857\u9053, \u4e34\u5e73\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "kwsxDya`}UCSQUG?GFa@?_@SIUBYAIBGAIDUFM\\c@@AHFDGRQPo@CFJCFHBHG?EAHH?DBWIOQ?AB?Le@l@GBABBAAMXi@?KBIAMBGGe@S{@Ak@MWMGWA[HUVKBc@Qi@a@KCm@Am@Ha@CQEq@u@YU[e@Ue@W]EOCm@M[Yi@UKGIMEEIWg@C]K_@SQEKWS]OWQa@a@AUFm@DK@MXc@?MGSGE[NCH?FAFDLHKEIEQVMCMLGGBICQYOKGOUS[c@I_@Fc@Vs@p@eAHQDa@Ge@@UXk@Ps@Uu@YII?SK[WIYDKr@g@dA@fA_@NW?SMWg@c@MS@QOg@@o@DMD_@Ac@EWWGO?]F{@@UF]Cy@@GEMAIB[Eg@Ba@HCHA`@Ci@UUIW?KBU`@[~@g@JItAa@RMNAHGTKPOjAa@r@]bAk@VIh@[NEZ_@JS?Mc@w@UWcAs@OQCK@QNODIPM^o@\\a@Ji@CM?QIa@?SEWIIAGWUIEQQqA_AEGAISUIi@_@c@Um@CUKQCMIQEYGUIeAQmAUWi@aA[GOIc@KUBSF_@DQIAa@FW@]Gi@[e@IG_@g@s@s@e@UGASKg@IQ?o@G[@ME_@?MCODYACAi@@WCU@MCY@SGUOm@g@e@Si@g@QIW]GCAIEK]QCGKAYIG?OKIAGGMCWMc@e@OGM@IIO[MMGAe@{@MKGD?NBLr@lA^d@DJThAL\\NLVd@h@l@NVX\\LRFT?VG^yAhBGNAHF\\Vf@ZRJDV@|AWVIZCz@YVCl@n@vAVx@h@BDERSHWFWBk@RK?UDSHCHC@s@^]^S\\_@dA[VMDa@@QLKTE\\?j@KPMDMGSCOGe@C_@T[j@AJDT?R\\v@HFL@`AFZTLPBXCb@KTe@p@IXHV\\\\FND`@G\\",
+"average_heartrate": 113.1,
+"average_speed": 1.363,
+"source": "strava",
+"streak": 1
 }
 ]

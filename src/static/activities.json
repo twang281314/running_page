@@ -5083,5 +5083,20 @@
 "average_speed": 2.023,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 13416046056,
+"name": "Night Run",
+"distance": 3891.8,
+"moving_time": "0:32:01",
+"type": "Run",
+"start_date": "2025-01-21 13:17:03+00:00",
+"start_date_local": "2025-01-21 21:17:03",
+"location_country": "\u661f\u6cb3\u8def, \u4e34\u5e73\u8857\u9053, \u4e34\u5e73\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "mgwxDwc`}UGHWLWCYDC?CEc@TSLSd@_DdB[Hc@VUFUPQDi@Zc@PUNaCjAYR[LQLk@VMJIBq@b@YAKD_@`@e@Vq@XIHqE~BqAh@[RcFfCmBhAa@NkAn@yCtA_@T[NWFQCKKk@kBSk@a@aAe@wAg@qAw@gCO[k@yBm@oAKa@i@uAS_Ai@sAo@kBw@uBEOAWJ[JKlAg@n@a@|BiATI`Ac@\\Kl@W`Ai@`Bs@hB}@RQ^MrAy@p@W`@UPEl@YTCRIxBgAHC\\@@GXUPUNMh@Q`CmAXIZShAi@LKRIrAo@b@QVOnBu@bCkAHADBl@~AZj@N`@BTJRVr@Ld@LR",
+"average_heartrate": 149.6,
+"average_speed": 2.026,
+"source": "strava",
+"streak": 1
 }
 ]

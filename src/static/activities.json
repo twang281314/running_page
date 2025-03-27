@@ -5822,5 +5822,21 @@
 "elevation_gain": 16.9,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 13994806007,
+"name": "Night Walk",
+"distance": 2507.5,
+"moving_time": "0:27:59",
+"type": "Hike",
+"start_date": "2025-03-26 13:52:44+00:00",
+"start_date_local": "2025-03-26 21:52:44",
+"location_country": "\u5317\u6c99\u897f\u8def, \u4e1c\u53a6\u00b7\u4e1c\u6e2f, \u4e34\u5e73\u8857\u9053, \u4e34\u5e73\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "alwxDc{`}UMKCQMQGES?e@^UNILCLBb@JZHHLXJ\\j@rADRJRHFD^AFFVRXGD@FPHFJBJADHl@Tl@RVFPABHNTPNPJ@FFJANSb@YJAB@PEJ@FQHKJGNSLIL?XGNYDM@QCq@TeAGS@ULMPEBC`@GVSXIVOJABEHWCYI]CQKSKGAOOUQeAEIUEG?AACk@EAO@IFO@KFQ?SBOJM@_@\\SNG@UT]Le@HO?KB]VI?SHEPC@M?OKMAAOCMWQI[SGGGGUIGK?]JWTQHILCVBRb@x@@HCBBLJN?DHHBTp@`AFR?JDRDDFR@LBF?JPVDRLRBTHVJPLt@P\\b@\\RBJCR@DMr@YLIFK",
+"average_heartrate": 101.2,
+"average_speed": 1.493,
+"elevation_gain": 23.4,
+"source": "strava",
+"streak": 7
 }
 ]

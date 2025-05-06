@@ -6254,5 +6254,21 @@
 "elevation_gain": 543.1,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 14384219226,
+"name": "Afternoon Trail Run",
+"distance": 1978.5,
+"moving_time": "0:25:17",
+"type": "Run",
+"start_date": "2025-05-05 07:43:13+00:00",
+"start_date_local": "2025-05-05 15:43:13",
+"location_country": "\u5415\u4ead\u9547, \u6850\u57ce\u5e02, \u5b89\u5e86\u5e02, \u5b89\u5fbd\u7701, \u4e2d\u56fd",
+"summary_polyline": "gne}D_uuhUXVND`@v@FH@FIVMREN?l@O~@O\\WlA[~@?PJRP`A?p@CH?TKd@?\\@LCZFNFTAPBP@Z?TDZFNBZDJB\\Nd@Zd@\\~@JHBHDLJ`AAVB\\AVWd@EP_@bAKHU?]TQDa@TMTOJOZUv@QZMd@I?MW@EJGAGGVAVIT[TGTGDE?B^GX?HMRG@BAFJ@t@DLLVh@n@Jb@ALd@x@JLZTDFArAGT?XBLVh@Dd@Rh@DPAVBLM?IHUp@MZKLOj@",
+"average_heartrate": 101.2,
+"average_speed": 1.304,
+"elevation_gain": 156.6,
+"source": "strava",
+"streak": 4
 }
 ]

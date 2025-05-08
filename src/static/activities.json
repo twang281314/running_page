@@ -6286,5 +6286,21 @@
 "elevation_gain": 11.4,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 14408036743,
+"name": "Night Run",
+"distance": 4105.2,
+"moving_time": "0:31:00",
+"type": "Run",
+"start_date": "2025-05-07 13:19:51+00:00",
+"start_date_local": "2025-05-07 21:19:51",
+"location_country": "\u56de\u6536\u7bb1\u5230\u4e1c\u5317\u95e8, \u4e1c\u53a6\u00b7\u4e1c\u6e2f, \u4e34\u5e73\u8857\u9053, \u4e34\u5e73\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "ybwxDcf`}UWJOTUVUB_@XK@UPYBSAIGS@OFUL[HANKN_@PaAj@Y\\q@l@[NWRS@o@Xi@`@c@PQNSDO?cA~@mAz@Q?c@PQNi@Z[Lk@He@Vc@La@Ps@h@m@TWP[FKDWPGJQNS@UJe@`@[PU@KDYNKLMFQ@c@^cAZy@^gCvAYH[ReBz@ODiB~@KDIAKEEG{@kCQ][_A_@y@Mi@iAyCiAwDYi@Ys@I[MSEQe@oAG]a@mAUi@]}@I[Wq@[mAA[BMd@]x@]nA{@jAe@fB{@d@M^O^QTQZKZSv@W\\Wz@]t@c@RIzA}@t@_@t@[p@St@[n@e@XMLMHCNIRCx@a@VG|@g@NKJCFGz@]ROPCHG\\MjCoA\\WdBw@^Kf@Ud@Qf@[PCX?PBLHh@|@RRT\\NZf@zAFFNXLJ",
+"average_heartrate": 129.4,
+"average_speed": 2.207,
+"elevation_gain": 13.3,
+"source": "strava",
+"streak": 6
 }
 ]

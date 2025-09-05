@@ -7246,5 +7246,37 @@
 "elevation_gain": 83.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15697609272,
+"name": "Night Walk",
+"distance": 1055.1,
+"moving_time": "0:15:45",
+"type": "Hike",
+"start_date": "2025-09-04 13:00:18+00:00",
+"start_date_local": "2025-09-04 21:00:18",
+"location_country": "\u6885\u5830\u8def, \u4e1c\u6e56\u8857\u9053, \u4e34\u5e73\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "cdvxDkzg}UL@PGJ?\\@DG@GTKb@CBCFBJ?h@QNMJCH?@C@QGUEA@KEE?GBFEBAAJ_@?GCA@EI@Bt@R^APDR@J@A{@FAAYBOAMBk@@s@JEAKBIAe@DSCE@O@QFOCI?G@EA[?MF?DSB{@C",
+"average_heartrate": 116.0,
+"average_speed": 1.117,
+"elevation_gain": 5.8,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 15697609323,
+"name": "Night Run",
+"distance": 4080.7,
+"moving_time": "0:46:25",
+"type": "Run",
+"start_date": "2025-09-04 13:38:10+00:00",
+"start_date_local": "2025-09-04 21:38:10",
+"location_country": "\u661f\u53d1\u8857, \u4e1c\u6e56\u8857\u9053, \u4e34\u5e73\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "m{vxDegg}Ug@|@CTD`@ATB\\?NBn@Cn@Av@?LBDCJBJClA@LFH@FEh@?b@BLAPBF@XE`@Ff@@t@?p@D\\AhABz@CP@PA\\@DEh@?VAFVfADbAHd@Dr@A`@NvACTNt@JNDR@`@BLL`AFT?VDf@ZbABT?VHf@?PHVJRN~@RZJ\\JnA?NBNR\\D`@Lb@D\\DPHHJZBTDJBZNh@CPDVDDFh@HXFHFj@Pj@Jp@Tr@HfADHXXDPRd@Lp@Nf@NLLTJ\\JFDJ@RLb@\\^f@xAh@z@Xt@ZjARjARz@JZ\\pBHVHl@DL@TJl@Rr@RrABr@NXThBXv@Ld@Hb@L`@Nx@Fn@t@hCBh@JX\\r@Pb@Hf@?FEFc@TEL?JHt@NZF\\l@pBAVKVKJq@Zq@h@y@`@EDI@YNQ^YLUTa@RQTe@NWNG?q@^ADURSFYPQB]TMDIHOD_@l@OFMDCBKDEHSHYXu@Xc@ZW@IAMDWRKP[NSLEFK@KHOTOBSN[Lq@d@GBMRWR_@`@CDCd@EJCf@FTHL@NVp@DX",
+"average_heartrate": 119.5,
+"average_speed": 1.465,
+"elevation_gain": 5.0,
+"source": "strava",
+"streak": 2
 }
 ]

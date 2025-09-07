@@ -7294,5 +7294,21 @@
 "elevation_gain": 172.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 15716172873,
+"name": "Evening Run",
+"distance": 6075.4,
+"moving_time": "0:48:10",
+"type": "Run",
+"start_date": "2025-09-06 11:19:25+00:00",
+"start_date_local": "2025-09-06 19:19:25",
+"location_country": "\u8377\u79b9\u8def, \u4e34\u5e73\u8857\u9053, \u4e34\u5e73\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "ktzxDmoa}UwAZWJw@j@MNKb@IlAFj@V~@N\\j@~@v@x@x@r@THjAU`@Mj@g@j@WNCZ?ZEfBe@TMHOBUAiBGq@S{@O]g@m@[QYKIIUGo@KcBE]@_AJiBb@iAp@S\\O`@Cz@@p@FVl@|AX`@PRJPVRJRf@ZJJLDL?|ASJE\\_@`@WLEn@GR@RE|@[x@a@HQBQA{AA_@G]Qu@]w@g@a@a@Mk@Uu@QK@UCc@?IBkADWLeB^_An@ONM\\ILELI`@?ZRjAN`@p@lA^^LP\\Zx@l@z@GXGXIZ]PO\\OdBM|@[n@WFSBo@LMFY?KFQAg@WgAWi@OQUOgBq@OC_@@{@K]@SAY@g@DsAXeAj@o@b@Wn@Ih@DfAJb@d@`A`@l@TTNRTVh@^RRL@`AK^GXSZ[PKd@Kt@Ah@K|@_@^WDK@IEmA?c@Ea@YwA[e@WYk@[YEg@So@K{A?eAJUFS?oA\\_@Re@b@]l@Kl@?p@N`An@vAl@~@JJRLl@j@NHF?ZAt@M^Qd@i@PIj@Gh@APARMfAc@LKFKBUA}@GcAQqAWm@[a@e@_@MGcAW{@IcA@m@JUJkAVo@Ze@\\QNYv@Gz@BTLx@Tt@~@zAXZ^`@`@ZXJfB_@r@m@^SZGl@@LCpBq@PMHS?c@GcAS{AIYO_@OWQO",
+"average_heartrate": 144.4,
+"average_speed": 2.102,
+"elevation_gain": 52.1,
+"source": "strava",
+"streak": 4
 }
 ]

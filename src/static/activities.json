@@ -7550,5 +7550,21 @@
 "elevation_gain": 13.2,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16120661193,
+"name": "Evening Run",
+"distance": 4403.5,
+"moving_time": "0:36:36",
+"type": "Run",
+"start_date": "2025-10-12 11:58:28+00:00",
+"start_date_local": "2025-10-12 19:58:28",
+"location_country": "\u661f\u5149\u8857, \u4e34\u5e73\u8857\u9053, \u4e34\u5e73\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "_~uxDqec}UEWOa@EWCcAG[Go@Ss@Ko@Oe@Ei@I_@KQW_BMc@Qw@K[Ic@q@gA?q@Dy@Ic@Oe@]{@SQc@_AG[[[Yi@GYm@kBOs@Gm@o@wCMg@E]YsAEa@YiBKa@EGIc@[iAa@qC_@cASgAEe@Qs@UaCIg@?YH_@?MIQIAGECq@Mu@?S]_CSk@UWIQ?IFE@EFABGDBDANFDCGSIg@K]IyA?UFMEy@?SHEBU@HDk@I_@BIK]@_@Ok@@e@CUJm@M]?GLq@HUAICG@Q?SIg@KQMe@BO@o@BOFC@QGISm@CW@IT_@DQEqADgACs@UgBC_@CQAcAMiABECaA@Af@RTFXPR?VFXCNOTHj@EBGAILUNHNCRBTG^DPJP@\\CDEJADGVER?PDHALGB?",
+"average_heartrate": 130.8,
+"average_speed": 2.005,
+"elevation_gain": 12.2,
+"source": "strava",
+"streak": 1
 }
 ]

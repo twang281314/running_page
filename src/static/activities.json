@@ -8286,5 +8286,21 @@
 "elevation_gain": 14.1,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 17118410589,
+"name": "Night Run",
+"distance": 3005.9,
+"moving_time": "0:20:20",
+"type": "Run",
+"start_date": "2026-01-20 14:10:49+00:00",
+"start_date_local": "2026-01-20 22:10:49",
+"location_country": "\u56de\u6536\u7bb1\u5230\u4e1c\u5317\u95e8, \u4e1c\u53a6\u00b7\u4e1c\u6e2f, \u4e34\u5e73\u8857\u9053, \u4e34\u5e73\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "}bwxDsf`}UGHI@c@VGBiBjAQ?MIg@Z_@PEBIb@IJkBx@y@b@}Ap@gAl@mBz@_Ah@o@VkAl@oAj@QLo@Xe@Z_@N_Ah@a@JoBfASHSNQFGFu@VUPoAl@WCk@}AAc@e@_BQ_@SWEYM_@c@m@Q_AGOIg@Oe@GYSi@JSz@}@RG^U@IZ[`@QNCDIFAJKJCPSVCREJURMDIZALCTSPGHU?ECIVMCADC`@ODGPCNGZELEh@g@JSJIb@KVYd@Kp@]FGFSXELGd@]@GEKGC@GVKT@f@Of@YVGRWj@Ml@a@REZQNERO|@a@FAZYA_@",
+"average_heartrate": 162.7,
+"average_speed": 2.464,
+"elevation_gain": 11.5,
+"source": "strava",
+"streak": 1
 }
 ]

@@ -8526,5 +8526,21 @@
 "elevation_gain": 28.9,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17332399905,
+"name": "Evening Walk",
+"distance": 5208.3,
+"moving_time": "1:04:16",
+"type": "Hike",
+"start_date": "2026-02-08 11:02:46+00:00",
+"start_date_local": "2026-02-08 19:02:46",
+"location_country": "\u661f\u53d1\u8857, \u4e34\u5e73\u8857\u9053, \u4e34\u5e73\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "crtxDega}U^Y@OCOIMAGIGIQWQWYIUG[@INi@Xg@BQFEVk@LK@WEUGIAYN[DOHM?IJ]@SYg@gAa@KMEUN_@j@Wh@ELB^ALEDGZEHQD@FG?OEMAMKIAIWUOSU}@T}BGSGG]EY@[JY?ICS@UAe@HECSBMCe@B]CODSA[BWEOSAk@HMd@WTUHEJCJM^Ir@W@CPETSn@MTOJQ^MRALKJCn@YDELEJOPI?CREDIJAHGF@DGF?FILGLQDKGa@WSIMEAWWIMKC@AIK]MOUAKBKT]~@gA@IFC?ILU@OGQBa@Eo@]a@KSWU_@WqAyAI_@Y[OWK[OaAUs@WeCa@aAg@i@]Qu@Sk@FYAWOCQLa@?OE[ISESg@m@MKKSKIgBeAS?QGI@i@Cs@KSBUAa@DOAY@_@EM@e@A]ImBmA_@a@i@_@s@y@SMYKQCk@U[Sg@e@MGc@i@GC]e@_@YCD?LFR`@h@Vb@VTRZFX?RB`@L`@V`@z@v@h@j@Lb@D^CXu@t@KPYZOZAHBZP\\VVLHXDV?NC`@Of@IVKx@MZMHANHJRJHj@RZFL?TF^VPHHLENo@PGDg@Je@DUHa@V_@ZSJa@h@Up@_@j@q@FSNKLENEVAn@GLM@[K]AQGMAG?IBOJWd@CRBV`@pARFV@l@LVRJV@^CRQ^c@h@GTFPb@h@J\\?LGf@En@@TDNNXNLZB\\ETBVTJ^@LCTOh@?f@JXCBWKKS?WH]?g@GWMUWOq@QWBOH@LJXR~@h@`BCRc@RIFAF?JPb@Jd@",
+"average_heartrate": 108.4,
+"average_speed": 1.351,
+"elevation_gain": 157.4,
+"source": "strava",
+"streak": 2
 }
 ]

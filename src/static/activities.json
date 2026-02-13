@@ -8574,5 +8574,21 @@
 "elevation_gain": 17.9,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 17376433924,
+"name": "Night Run",
+"distance": 4298.5,
+"moving_time": "0:31:43",
+"type": "Run",
+"start_date": "2026-02-12 14:05:10+00:00",
+"start_date_local": "2026-02-12 22:05:10",
+"location_country": null,
+"summary_polyline": "ibwxD_j`}U?LDHBBF?DDNr@MNi@VYR[LkBbA[AWFKHUHWPM^KHeDzAyAv@uAl@y@f@yBdAWRiAd@w@d@y@`@SFsAx@gDxA_CrAo@X}Av@QAWV[RiD`BSLu@\\}DrB}Ar@WAOKO]EW_@oAy@oBq@kB]cAe@gBQWYu@Mi@a@eAQ[i@oB_@{@Oo@g@iAY}@q@iBOc@CU?UJ[HGlAk@l@_@~C}AnAk@f@ObB{@xCoA|@e@~@k@d@QJIvBaAv@YbCmA`@GrAaAvBkAnCgA`Ak@vAo@HGr@UBE`CeAv@WLOJCHDRTRb@LPd@jAZbANZRn@h@hA",
+"average_heartrate": 142.5,
+"average_speed": 2.259,
+"elevation_gain": 14.8,
+"source": "strava",
+"streak": 3
 }
 ]

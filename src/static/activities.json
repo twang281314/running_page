@@ -9070,5 +9070,21 @@
 "elevation_gain": 921.3,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18381845915,
+"name": "Night Trail Run",
+"distance": 4293.3,
+"moving_time": "0:48:37",
+"type": "Run",
+"start_date": "2026-05-04 13:52:30+00:00",
+"start_date_local": "2026-05-04 21:52:30",
+"location_country": "\u661f\u6cb3\u8def, \u4e34\u5e73\u8857\u9053, \u4e34\u5e73\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "slwxDe``}U_Ad@G@SHUPUFOJMBSPI@UNKBqBjAYFWL[XOHMJuAl@KNIBCHqAf@c@VYDQHYDGBKH[NEDeBz@aAt@QBa@Lo@b@]LKBCBYHELE@GJSFk@V[H]?]\\UPeAh@WRw@\\KJ[Le@XK@_@PMHODo@b@e@RWH}@h@o@XMBSIMU_@{AyA_E]mAOWOi@cAmCc@}Ao@{AW_Ag@sA_@}A[i@_@eAO[i@aBGe@BQNUp@YPK\\Mr@e@l@[pAg@vAs@b@M`@Yj@SXOL@`@KHEHKTCJE~@g@PGNOVI`Ag@LCd@]f@QFGJCLKTARKTU\\KZOFIXKb@[LAzAu@VUREx@a@`@S\\Yr@UJKHCLITMLE\\GTIBELCHGNG`@YLCPALMXKLKn@QLOl@_@j@UPA@G@@VGNKTCH@LHHLVj@FDTr@HLDLB\\Td@@PPRLVBTLPBJLLNVLh@XX?HJLJBRA`@MTMTEZUJQNEXS\\IRMBERKLM",
+"average_heartrate": 118.3,
+"average_speed": 1.472,
+"elevation_gain": 17.7,
+"source": "strava",
+"streak": 1
 }
 ]

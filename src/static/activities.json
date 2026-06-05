@@ -9278,5 +9278,21 @@
 "elevation_gain": 102.4,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18784619743,
+"name": "Night Walk",
+"distance": 5323.8,
+"moving_time": "1:07:27",
+"type": "Hike",
+"start_date": "2026-06-04 13:06:42+00:00",
+"start_date_local": "2026-06-04 21:06:42",
+"location_country": "\u632f\u5174\u897f\u8def, \u9999\u9882\u4e50\u82d1, \u4e34\u5e73\u8857\u9053, \u4e34\u5e73\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "wfvxDuva}UFIHCZY`@OHSRKLMt@Yb@YNMJAZQz@o@f@UJKPCVUn@UVOTSH?d@QFGDQ@e@FN`@Q?KCOQa@a@}AAy@a@{AKSEWC?EEES@ULOTINFBCHO?a@TaAA]O{@?GDCDBHJHX?r@Kb@@TFLPJV?FBRT@F^`@PHJJPHHN\\JVRDAHDDAB@h@XNLPFV?HD\\AVDn@^FTYn@ER?NDTBp@MrACDA`@JZLJXJLLNBRLD?JHf@Ax@Ql@SDEVA?C`@MNKREF?@CRCHGf@ITKVAPIJ?PEFBRAJCJ@TDRVDL?HA@BPCPSRUJWPKRWXGNEZJd@NPJDRATB~@EJHRf@AZGDMXBBMXAZJZ?FETSPAJIPAJGDIPMNS`A@TBLf@l@BHFD@F\\ZFNPNAFHLAXUj@K`@E^@RRRRHH@pAbALT?TFR?VJXJJF@NJTRb@v@Lr@JVHH~@~ALNVLVZD?RPZLHEPDTA`@HZID@FAt@j@VHLCRWRIHGN?ZRFJBN?z@DFJb@G|@MTERi@n@M^C^J\\TVNJ`@LLIRAF@HJ@LCr@c@t@Yp@AN@PLPJBFAPI@KES_AY_@UGI[aAcAw@aAcAo@]G@IEUc@?SGQ}@qAIQgAcBs@uAsAuBa@w@k@o@_@OGKk@iAMMOu@a@i@Yi@i@qAQ[YU[o@y@gAy@y@o@e@eAeA]UK?_@P{@ZAD]Hk@ZIJMBg@b@q@`@YL]H]LGFMBWTWJQJG@SNQVQJc@\\QD[RQDOLSHe@XKLi@PSLGHI@g@\\WHYNOPOHWTOB_@XQ@IHWBQNWHGHc@VODSPSL",
+"average_heartrate": 107.6,
+"average_speed": 1.315,
+"elevation_gain": 72.2,
+"source": "strava",
+"streak": 1
 }
 ]

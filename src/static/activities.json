@@ -9342,5 +9342,21 @@
 "elevation_gain": 187.4,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18891400841,
+"name": "Night Run",
+"distance": 5003.4,
+"moving_time": "0:37:14",
+"type": "Run",
+"start_date": "2026-06-12 13:10:32+00:00",
+"start_date_local": "2026-06-12 21:10:32",
+"location_country": "\u8377\u79b9\u8def, \u4e34\u5e73\u8857\u9053, \u4e34\u5e73\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "cuzxDgoa}UaAVe@V[XQZKZEXCv@Df@J\\@Ld@dAb@l@`@b@f@^f@h@TBxASTKp@o@TIXGhAG|@Yj@WLMDU@g@G}@OmASu@_@i@k@e@i@WWCWKSCw@Gi@@wAL}@Ns@VQJe@\\SP[x@ETAr@D\\XdAf@bA~@bAxAlAJ?zAWXS`@c@VKZGl@C^GzAg@NSH]CmBSuAe@}@e@i@e@Ye@S_BMi@?i@He@@y@JWF{@\\{@r@[f@ShA?PBZPj@n@rAbAlAj@d@n@b@H@f@Ej@MZM\\a@XO\\IhAE~@]n@YLYBq@EkAWqASg@S[k@i@u@]aAQuB?o@FwBf@u@`@ONQVWp@Gr@B`@BRL`@Xj@v@pA`B`BLJLBn@Gt@MJELMTYZSj@It@C\\IdA_@JILSDM?cACs@KaAI][m@]c@YSeAe@c@E}@EaABs@Fs@NwAd@i@\\WTUh@GZCb@?\\P`Az@~AZb@v@x@ZXXPL@XC",
+"average_heartrate": 132.5,
+"average_speed": 2.24,
+"elevation_gain": 41.3,
+"source": "strava",
+"streak": 2
 }
 ]

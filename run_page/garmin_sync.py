@@ -358,12 +358,14 @@ async def download_new_activities(
     # to find new run to generate
     activity_ids = await get_activity_id_list(client)
     to_generate_garmin_ids = list(set(activity_ids) - set(downloaded_ids))
-    print(f"{len(to_generate_garmin_ids)} new activities to be downloaded")
+    total = len(to_generate_garmin_ids)
+    print(f"{total} new activities to be downloaded")
 
     to_generate_garmin_id2title = {}
     garmin_summary_infos_dict = {}
-    for id in to_generate_garmin_ids:
+    for idx, id in enumerate(to_generate_garmin_ids, 1):
         try:
+            print(f"[{idx}/{total}] Fetching summary for activity {id}")
             activity_summary = await client.get_activity_summary(id)
             activity_title = activity_summary.get("activityName", "")
             to_generate_garmin_id2title[id] = activity_title
@@ -371,20 +373,34 @@ async def download_new_activities(
                 activity_summary, id
             )
         except Exception as e:
-            print(f"Failed to get activity summary {id}: {str(e)}")
+            print(f"[{idx}/{total}] Failed to get activity summary {id}: {str(e)}")
             continue
 
     start_time = time.time()
+    completed = 0
+
+    async def _download_with_progress(activity_id):
+        nonlocal completed
+        try:
+            await download_garmin_data(
+                client,
+                activity_id,
+                file_type=file_type,
+                summary_infos=garmin_summary_infos_dict,
+            )
+        finally:
+            completed += 1
+            print(f"[{completed}/{total}] Downloaded activity {activity_id}")
+
+    print(f"Starting to download {total} activities (concurrency=10)...")
     await gather_with_concurrency(
         10,
-        [
-            download_garmin_data(
-                client, id, file_type=file_type, summary_infos=garmin_summary_infos_dict
-            )
-            for id in to_generate_garmin_ids
-        ],
+        [_download_with_progress(id) for id in to_generate_garmin_ids],
     )
-    print(f"Download finished. Elapsed {time.time()-start_time} seconds")
+    print(
+        f"Download finished. {completed}/{total} done. "
+        f"Elapsed {time.time() - start_time:.1f} seconds"
+    )
 
     await client.req.aclose()
     return to_generate_garmin_ids, to_generate_garmin_id2title
